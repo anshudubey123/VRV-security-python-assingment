@@ -1,4 +1,4 @@
-![log_analysis_result page ](https://github.com/user-attachments/assets/c523c817-5e94-4852-8eb7-f162a24ed1ba)
+Project output image ![log_analysis_result page ](https://github.com/user-attachments/assets/c523c817-5e94-4852-8eb7-f162a24ed1ba)
 # VRV-Security-s-Python-Intern-Assignment
 
 # Log Analysis System
